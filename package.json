@@ -1,0 +1,14 @@
+{
+  "name": "finder",
+  "version": "1.0.0",
+  "description": "ipfinder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "macius#2030",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.2"
+  }
+}
